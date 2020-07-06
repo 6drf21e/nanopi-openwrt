@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - '.github/workflows/r2s_lean_minimal.yml'
+      - 'README.md'
 #  schedule:
 #    - cron: '10 08 * * *'
 #  test1
